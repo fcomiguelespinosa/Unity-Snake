@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="snake.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0798758"
+     inkscape:cx="204.53412"
+     inkscape:cy="155.65467"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       style="fill:#333333;fill-rule:evenodd;stroke-width:0.0896055"
+       id="rect10"
+       width="33.866665"
+       height="33.866665"
+       x="-8.8817842e-16"
+       y="9.7560974e-07"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       style="fill:#4d4d4d;stroke-width:0.0896055"
+       id="rect15"
+       width="32.173332"
+       height="32.173332"
+       x="1.6933335"
+       y="9.7560974e-07"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       style="fill:#999999;stroke:none;stroke-width:0.0896055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.11406142,0.04480255 33.866667,0 V 33.866667 L 32.186549,32.148053 32.128076,1.6992556 1.6899655,1.6785055 Z"
+       id="path1003"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       style="fill:#666666;stroke-width:0.132636"
+       d="m 1.6547523,0.79101326 c 0,-0.40122215 0.024865,-0.56535899 0.055254,-0.3647474 0.030392,0.20061056 0.030392,0.52888421 0,0.72949474 -0.030388,0.2006116 -0.055254,0.036475 -0.055254,-0.36474734 z"
+       id="path1007"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       id="g62">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="fill:#784421;fill-rule:evenodd;stroke-width:0.0896052"
+         id="rect10-7"
+         width="33.866665"
+         height="33.866665"
+         x="33.866665"
+         y="3.4945649e-06" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="fill:#666666;stroke-width:0.132634"
+         d="m 35.521427,0.79101546 c 0,-0.40122202 0.0248,-0.56535888 0.0553,-0.36474728 0.0303,0.20061058 0.0303,0.52888418 0,0.72949482 -0.0303,0.2006114 -0.0553,0.036475 -0.0553,-0.36474754 z"
+         id="path1007-6" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         y="0.84666944"
+         x="34.713337"
+         height="32.173325"
+         width="32.173332"
+         id="rect10-7-8"
+         style="fill:#a05a2c;fill-rule:evenodd;stroke-width:0.0851259" />
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       id="g68">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         y="33.866665"
+         x="0"
+         height="33.866665"
+         width="33.866665"
+         id="rect10-7-9"
+         style="fill:#587700;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0896053" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="path1007-6-0"
+         d="m 1.6547526,34.657677 c 0,-0.40122 0.024858,-0.56536 0.055253,-0.36474 0.030378,0.20061 0.030378,0.52888 0,0.72949 -0.030378,0.20061 -0.055253,0.0365 -0.055253,-0.36475 z"
+         style="fill:#666666;stroke-width:0.132636" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="fill:#739b00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0716841"
+         id="rect10-7-8-5"
+         width="27.093334"
+         height="27.093334"
+         x="3.3866668"
+         y="37.253338" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         y="40.639996"
+         x="6.7733335"
+         height="20.32"
+         width="20.32"
+         id="rect10-7-8-5-9"
+         style="fill:#88b900;fill-opacity:1;fill-rule:evenodd;stroke-width:0.053763" />
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       id="g57">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="fill:#587700;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0896053"
+         id="rect10-7-9-2"
+         width="33.866665"
+         height="33.866665"
+         x="33.866665"
+         y="33.866665" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         y="37.253338"
+         x="37.253338"
+         height="27.093334"
+         width="13.546667"
+         id="rect10-7-8-5-98"
+         style="fill:#739b00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0506883" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="fill:#88b900;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0310402"
+         id="rect10-7-8-5-9-3"
+         width="6.7733335"
+         height="20.32"
+         x="40.639996"
+         y="40.639996" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="fill:#010100;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00896053"
+         id="rect10-7-8-5-9-5"
+         width="3.3866668"
+         height="3.3866668"
+         x="47.413334"
+         y="40.639996" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         y="57.57333"
+         x="47.413334"
+         height="3.3866668"
+         width="3.3866668"
+         id="rect10-7-8-5-9-5-7"
+         style="fill:#010100;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00896053" />
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       id="g142">
+      <rect
+         y="3.4945649e-06"
+         x="67.73333"
+         height="33.866665"
+         width="33.866665"
+         id="rect10-7-1"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.0896052"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1007-6-7"
+         d="m 69.388092,0.79101546 c 0,-0.40122202 0.0248,-0.56535888 0.0553,-0.36474728 0.0303,0.20061058 0.0303,0.52888418 0,0.72949482 -0.0303,0.2006114 -0.0553,0.036475 -0.0553,-0.36474754 z"
+         style="fill:#666666;stroke-width:0.132634"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#ff2a2a;fill-rule:evenodd;stroke-width:0.0560038"
+         id="rect10-7-8-7"
+         width="21.166666"
+         height="21.166666"
+         x="74.083328"
+         y="6.3500028"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff5555;stroke:none;stroke-width:0.0896054px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 67.847387,0.04480349 101.59999,3.4945649e-6 V 33.866671 L 95.249992,27.516668 V 6.3500028 H 74.083328 Z"
+         id="path1003-2"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <rect
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       y="33.866669"
+       x="67.73333"
+       height="33.866665"
+       width="33.866665"
+       id="rect10-7-1-1"
+       style="fill:#800000;fill-rule:evenodd;stroke-width:0.0896052"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       id="path1007-6-7-6"
+       d="m 69.388092,34.65768 c 0,-0.401222 0.0248,-0.565358 0.0553,-0.364747 0.0303,0.200611 0.0303,0.528884 0,0.729495 -0.0303,0.200611 -0.0553,0.03648 -0.0553,-0.364748 z"
+       style="fill:#666666;stroke-width:0.132634"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       style="fill:#aa0000;fill-rule:evenodd;stroke-width:0.0560038"
+       id="rect10-7-8-7-2"
+       width="21.166666"
+       height="21.166666"
+       x="74.083328"
+       y="40.216667"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-filename="C:\Users\EON-IGNTING\Snake\Assets\Spritesheet\snake.png"
+       style="fill:#d40000;stroke:none;stroke-width:0.0896054px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 67.847387,33.911468 33.752603,-0.0448 V 67.733336 L 95.249992,61.383333 V 40.216668 H 74.083328 Z"
+       id="path1003-2-9"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
